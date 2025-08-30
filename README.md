@@ -11,3 +11,4 @@ as an authentication option.
 ## Installation, Setup, and Documentation
 Information for installation and configuration of this plugin is located
 at https://github.com/hkamel/sonar-auth-aad/wiki
+
